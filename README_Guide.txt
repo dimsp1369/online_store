@@ -36,4 +36,15 @@ dotenv - модуль переменных окружения
 
 Устанавливаем express-fileupload (npm i express-fileupload) для загрузки файлов
 
+Авторизация.
+Устанавливаем jsonwebtoken для генирации токена и bcrypt для хэширования паролей
+
+Step 2. Work with frontEnd
+
+npx create-react-app .
+
+npm i axios react-router-dom mobx mobx-react-lite
+
+Bootstrap
+
 
